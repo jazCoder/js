@@ -1,6 +1,7 @@
 /**
 * Search nested accordion for text pattern
-*
+* Created for BeMomentful app 
+* 2018.
 */
 
 $(document).ready(function() {
